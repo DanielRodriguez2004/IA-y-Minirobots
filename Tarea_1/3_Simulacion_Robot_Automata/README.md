@@ -4,6 +4,8 @@ Después, entre a [Google Colab](https://colab.research.google.com), y seleccion
 
 Ahí podrá revisar paso a paso cómo se simuló el autómata, y en la parte final podrá observar el resultado final. 
 
+Nota: Dele algo de tiempo a la animación de la sección 8, la primera vez que se ejecuta demora un poco en arrancar.
+
 
 
 
