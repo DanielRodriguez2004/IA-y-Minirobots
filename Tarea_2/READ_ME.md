@@ -1,4 +1,4 @@
-# Taller 3 y Taller 5 - Inteligencia Artificial
+
 
 ## Taller 3 - Punto 2: Verdadera democracia
 
